@@ -21,8 +21,8 @@ line 39 where say profile_new_path = '/home/eliander/.mozilla/firefox/o1r8934p.h
 
 the script should be setup and ready for run (python3 downupvideo.py)
 
-NOTE: Make sure u have google-chrome and firefox installed.
+#NOTE: Make sure u have google-chrome and firefox installed.
 
-NOTE: to change playlist title, find the file Constant.py under the folder "youtube_uploader_selenium" that is inside the folder
+#NOTE: to change playlist title, find the file Constant.py under the folder "youtube_uploader_selenium" that is inside the folder
 where all the files of the scripts were extracted. Change the value of variable "VIDEO_PLAYLIST" in the file Constant.py for example
 VIDEO_PLAYLIST = 'playlist-example-title' and save the file.
